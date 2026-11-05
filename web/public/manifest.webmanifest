@@ -1,0 +1,15 @@
+{
+  "name": "Spare Parts ERP",
+  "short_name": "Spare Parts",
+  "description": "Spare parts shop management — sales, stock, jobs, pre-orders, customers, suppliers, and reports.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3F5F4",
+  "theme_color": "#1B6B63",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

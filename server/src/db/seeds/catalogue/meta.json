@@ -1,0 +1,15 @@
+{
+ "generatedFrom": "Spare-parts-opening-stock-budget.xlsx (3 Nov 2026)",
+ "parts": 337,
+ "gradeRows": 949,
+ "totalQty": 1337,
+ "totalCostRs": 1531660,
+ "assumptions": {
+  "gradeMix": "25% Genuine / 60% AA / 15% A",
+  "aaPriceVsGenuine": 0.6,
+  "aPriceVsGenuine": 0.42,
+  "costVsRetail": 0.75,
+  "pricesRoundedTo": 10
+ },
+ "estimatedParts": 70
+}

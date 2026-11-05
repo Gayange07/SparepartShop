@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793808748690,
+      "tag": "0000_luxuriant_wong",
+      "breakpoints": true
+    }
+  ]
+}

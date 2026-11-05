@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1B6B63"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Spanner / wrench -->
+    <path d="M365 147a74 74 0 0 1-85 85L160 352a30 30 0 1 1-42-42l120-120a74 74 0 0 1 85-85l-37 37 15 55 55 15Z"/>
+  </g>
+</svg>

@@ -1,0 +1,299 @@
+[
+ {
+  "manufacturer": "Bajaj",
+  "distributor": "DPMC",
+  "vehicle": "Motorcycle",
+  "models": [
+   "CT100",
+   "Platina 100",
+   "Platina 125",
+   "Boxer",
+   "BYK",
+   "Caliber",
+   "Wind 125",
+   "Discover 100",
+   "Discover 125",
+   "Discover 135",
+   "Discover 150",
+   "Pulsar 125",
+   "Pulsar 135LS",
+   "Pulsar 150",
+   "Pulsar 180",
+   "Pulsar 200",
+   "Pulsar 220",
+   "Pulsar N125",
+   "Pulsar N160",
+   "Pulsar NS160",
+   "Pulsar NS200",
+   "Pulsar AS150",
+   "Pulsar AS200",
+   "Pulsar RS200",
+   "Avenger 150",
+   "Avenger 160",
+   "Avenger 220",
+   "Dominar 250",
+   "Dominar 400",
+   "Chetak (classic)",
+   "Chetak Electric"
+  ]
+ },
+ {
+  "manufacturer": "KTM",
+  "distributor": "DPMC",
+  "vehicle": "Motorcycle",
+  "models": [
+   "Duke 125",
+   "Duke 200",
+   "Duke 250",
+   "Duke 390",
+   "RC 125",
+   "RC 200",
+   "RC 390"
+  ]
+ },
+ {
+  "manufacturer": "Honda",
+  "distributor": "Stafford Motor Company",
+  "vehicle": "Motorcycle",
+  "models": [
+   "Dio 110",
+   "Dio 125",
+   "SP 125",
+   "Shine 125",
+   "CB Shine",
+   "Navi",
+   "Grazia",
+   "Activa",
+   "CB Unicorn 150",
+   "CB Unicorn 160",
+   "CB Trigger",
+   "Hornet 160R",
+   "CBR 150R",
+   "CD70",
+   "CD125",
+   "CD125 Benly",
+   "Super Cub C50",
+   "Super Cub C70",
+   "Super Cub C90",
+   "XR125L",
+   "XR150L",
+   "XR250",
+   "CRF250L",
+   "XLR / Baja"
+  ]
+ },
+ {
+  "manufacturer": "Hero",
+  "distributor": "Abans Auto",
+  "vehicle": "Motorcycle",
+  "models": [
+   "HF Deluxe",
+   "Splendor",
+   "Passion",
+   "Glamour",
+   "Ignitor",
+   "Hunk 150",
+   "Hunk 160R 4V",
+   "Xtreme 125R",
+   "Xtreme 160R",
+   "Pleasure",
+   "Maestro",
+   "Dash",
+   "Duet",
+   "Xoom 110",
+   "Xoom 110 Combat",
+   "Xoom 125R"
+  ]
+ },
+ {
+  "manufacturer": "Yamaha",
+  "distributor": "AMW",
+  "vehicle": "Motorcycle",
+  "models": [
+   "FZ",
+   "FZ-FI",
+   "FZ-S FI",
+   "FZ-S FI Hybrid",
+   "FZ V2",
+   "FZS V2",
+   "Fazer",
+   "MT-15",
+   "R15 V4",
+   "Ray ZR 115",
+   "Ray ZR 125",
+   "NMAX 155",
+   "Fascino",
+   "Alpha",
+   "YBR 110",
+   "YBR 125",
+   "Saluto",
+   "RX100",
+   "RX-King",
+   "DT125",
+   "DT175",
+   "TT-R",
+   "Serow",
+   "XT"
+  ]
+ },
+ {
+  "manufacturer": "TVS",
+  "distributor": "TVS Lanka",
+  "vehicle": "Motorcycle",
+  "models": [
+   "Metro",
+   "Star City+",
+   "Sport",
+   "Radeon",
+   "Raider 125",
+   "Apache RTR 160",
+   "Apache RTR 160 4V",
+   "Apache RTR 180",
+   "Apache RTR 200 4V",
+   "Ntorq 125",
+   "Wego",
+   "Jupiter",
+   "Scooty Pep+",
+   "Scooty Zest",
+   "XL100",
+   "Max 100",
+   "Max 4R",
+   "Victor",
+   "Phoenix",
+   "iQube"
+  ]
+ },
+ {
+  "manufacturer": "Suzuki",
+  "distributor": "unverified",
+  "vehicle": "Motorcycle",
+  "models": [
+   "Gixxer",
+   "Gixxer SF",
+   "Gixxer 250",
+   "GSX 125",
+   "Intruder",
+   "GS150R",
+   "Samurai 150",
+   "Burgman 125",
+   "Access 125",
+   "GN125",
+   "GS125",
+   "AX100",
+   "A100",
+   "Djebel",
+   "Grass Tracker",
+   "VanVan RV200",
+   "DR",
+   "TS125",
+   "TS185"
+  ]
+ },
+ {
+  "manufacturer": "Ranomoto",
+  "distributor": "unverified",
+  "vehicle": "Motorcycle",
+  "models": [
+   "CG125",
+   "Pattaya",
+   "Pattaya Double Power",
+   "Dream 125",
+   "Keeway"
+  ]
+ },
+ {
+  "manufacturer": "Kawasaki",
+  "distributor": "unverified",
+  "vehicle": "Motorcycle",
+  "models": [
+   "KLX 125",
+   "KLX 250",
+   "KDX 125",
+   "KDX 220",
+   "Ninja 250",
+   "Ninja 300"
+  ]
+ },
+ {
+  "manufacturer": "Demak",
+  "distributor": "unverified",
+  "vehicle": "Motorcycle",
+  "models": [
+   "DTM 200",
+   "Skyline 225",
+   "Skyborn",
+   "Transtar",
+   "Dart DXT",
+   "Warrior",
+   "DX 100",
+   "DX 150",
+   "Skippy"
+  ]
+ },
+ {
+  "manufacturer": "Royal Enfield",
+  "distributor": "unverified",
+  "vehicle": "Motorcycle",
+  "models": [
+   "Classic 350",
+   "Bullet 350",
+   "Himalayan",
+   "Hunter 350"
+  ]
+ },
+ {
+  "manufacturer": "Yadea",
+  "distributor": "Abans Auto",
+  "vehicle": "Motorcycle",
+  "models": [
+   "T5",
+   "Ruibin"
+  ]
+ },
+ {
+  "manufacturer": "Bajaj",
+  "distributor": "DPMC",
+  "vehicle": "Three-wheeler",
+  "models": [
+   "RE 2S 3-port",
+   "RE 2S 5-port",
+   "RE 4S",
+   "RE 4S 175",
+   "RE 205",
+   "RE Compact 4S",
+   "RE Compact 4S FL",
+   "RE FL",
+   "RE 236 EFI (2025+)"
+  ]
+ },
+ {
+  "manufacturer": "TVS",
+  "distributor": "TVS Lanka",
+  "vehicle": "Three-wheeler",
+  "models": [
+   "King 2S",
+   "King 4S",
+   "King Deluxe",
+   "King 2D",
+   "King EV MAX"
+  ]
+ },
+ {
+  "manufacturer": "Piaggio",
+  "distributor": "Singer (EV)",
+  "vehicle": "Three-wheeler",
+  "models": [
+   "Ape (petrol)",
+   "Apé E City FX Max"
+  ]
+ },
+ {
+  "manufacturer": "Mahindra",
+  "distributor": "SLA Mobility",
+  "vehicle": "Three-wheeler",
+  "models": [
+   "Treo",
+   "Zor Grand"
+  ]
+ }
+]

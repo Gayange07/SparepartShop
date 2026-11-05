@@ -1,0 +1,338 @@
+﻿Part no,Part,Category,Make,Models,Vehicle,Unit,Sells,Brand item,Genuine price,Genuine cost,Genuine qty,AA price,AA cost,AA qty,A price,A cost,A qty,Price source,Estimated
+BJC-BDY-001,Side mirror set (LH+RH),Body & plastics,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,2,1050,790,1,SA Products,No
+BJD-BDY-001,Side mirror set (LH+RH),Body & plastics,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,2,1050,790,1,SA Products,No
+BJP-BDY-001,Side mirror set (LH+RH),Body & plastics,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,2,1050,790,0,SA Products,No
+HRC-BDY-001,Side mirror set (LH+RH),Body & plastics,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,1,1050,790,0,SA Products,No
+HNC-BDY-001,Side mirror set (LH+RH),Body & plastics,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,1,1050,790,0,SA Products,No
+RNC-BDY-001,Side mirror set (LH+RH),Body & plastics,Ranomoto,CG125,Motorcycle,Set,Fast,No,2500,1880,0,1500,1120,1,1050,790,0,SA Products,No
+SZK-BDY-001,Side mirror set (LH+RH),Body & plastics,Suzuki,"GN125, Gixxer",Motorcycle,Set,Fast,No,2500,1880,0,1500,1120,1,1050,790,0,SA Products,No
+TVA-BDY-001,Side mirror set (LH+RH),Body & plastics,TVS,Apache RTR 160,Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,1,1050,790,0,SA Products,No
+TVC-BDY-001,Side mirror set (LH+RH),Body & plastics,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,1,1050,790,0,SA Products,No
+YMF-BDY-001,Side mirror set (LH+RH),Body & plastics,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Fast,No,2500,1880,1,1500,1120,1,1050,790,0,SA Products,No
+BJC-BRK-001,Brake shoe set - front,Brakes,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Fast,No,1490,1120,2,890,670,5,630,470,1,DPMC Bajaj genuine parts,No
+BJC-BRK-002,Brake shoe set - rear,Brakes,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Fast,No,1290,970,3,770,580,5,540,410,2,DPMC Bajaj genuine parts,No
+BJD-BRK-001,Brake shoe set - front,Brakes,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Fast,No,1490,1120,2,890,670,5,630,470,1,DPMC Bajaj genuine parts,No
+BJD-BRK-002,Brake shoe set - rear,Brakes,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Fast,No,1290,970,3,770,580,5,540,410,2,DPMC Bajaj genuine parts,No
+BJP-BRK-001,Brake shoe set - rear,Brakes,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Fast,No,1490,1120,2,890,670,5,630,470,1,DPMC Bajaj genuine parts,No
+BJP-BRK-002,Caliper minor repair kit,Brakes,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Kit,Medium,No,820,620,1,490,370,2,340,260,0,DPMC Bajaj genuine parts,No
+BJP-BRK-003,Disc brake pads - front,Brakes,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Fast,No,1130,850,2,680,510,5,480,360,1,SA Products,No
+HRC-BRK-001,Brake shoe set - front,Brakes,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Fast,No,1490,1120,1,890,670,3,630,470,1,DPMC Bajaj genuine parts,No
+HRC-BRK-002,Brake shoe set - rear,Brakes,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Fast,No,1290,970,2,770,580,3,540,410,1,DPMC Bajaj genuine parts,No
+HNC-BRK-001,Brake shoe set - front,Brakes,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Fast,No,1490,1120,1,890,670,3,630,470,1,DPMC Bajaj genuine parts,No
+HNC-BRK-002,Brake shoe set - rear,Brakes,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Fast,No,1290,970,2,770,580,3,540,410,1,DPMC Bajaj genuine parts,No
+RNC-BRK-001,Brake shoe set - front,Brakes,Ranomoto,CG125,Motorcycle,Set,Fast,No,1490,1120,1,890,670,1,630,470,0,DPMC Bajaj genuine parts,No
+RNC-BRK-002,Brake shoe set - rear,Brakes,Ranomoto,CG125,Motorcycle,Set,Fast,No,1290,970,1,770,580,2,540,410,0,DPMC Bajaj genuine parts,No
+SZK-BRK-001,Brake shoe set - front,Brakes,Suzuki,"GN125, Gixxer",Motorcycle,Set,Fast,No,1490,1120,1,890,670,1,630,470,0,DPMC Bajaj genuine parts,No
+SZK-BRK-002,Brake shoe set - rear,Brakes,Suzuki,"GN125, Gixxer",Motorcycle,Set,Fast,No,1290,970,1,770,580,2,540,410,0,DPMC Bajaj genuine parts,No
+TVA-BRK-001,Brake shoe set - rear,Brakes,TVS,Apache RTR 160,Motorcycle,Set,Fast,No,1490,1120,1,890,670,3,630,470,1,DPMC Bajaj genuine parts,No
+TVA-BRK-002,Caliper minor repair kit,Brakes,TVS,Apache RTR 160,Motorcycle,Kit,Medium,No,820,620,1,490,370,1,340,260,0,DPMC Bajaj genuine parts,No
+TVA-BRK-003,Disc brake pads - front,Brakes,TVS,Apache RTR 160,Motorcycle,Set,Fast,No,1130,850,1,680,510,3,480,360,1,SA Products,No
+TVC-BRK-001,Brake shoe set - front,Brakes,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Fast,No,1490,1120,1,890,670,3,630,470,1,DPMC Bajaj genuine parts,No
+TVC-BRK-002,Brake shoe set - rear,Brakes,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Fast,No,1290,970,2,770,580,3,540,410,1,DPMC Bajaj genuine parts,No
+YMF-BRK-001,Brake shoe set - rear,Brakes,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Fast,No,1490,1120,1,890,670,3,630,470,1,DPMC Bajaj genuine parts,No
+YMF-BRK-002,Caliper minor repair kit,Brakes,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Kit,Medium,No,820,620,1,490,370,1,340,260,0,DPMC Bajaj genuine parts,No
+YMF-BRK-003,Disc brake pads - front,Brakes,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Fast,No,1130,850,1,680,510,3,480,360,1,SA Products,No
+BJC-CBL-001,Accelerator (throttle) cable,Cables,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Fast,No,1250,940,2,750,560,5,520,390,1,SA Products,No
+BJC-CBL-002,Clutch cable,Cables,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Fast,No,1250,940,2,750,560,5,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJC-CBL-003,Front brake cable,Cables,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Fast,No,1250,940,2,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJC-CBL-004,Speedometer cable,Cables,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Medium,No,1120,840,1,680,510,2,470,350,1,SA Products,No
+BJD-CBL-001,Accelerator (throttle) cable,Cables,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Fast,No,1250,940,2,750,560,5,520,390,1,SA Products,No
+BJD-CBL-002,Clutch cable,Cables,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Fast,No,1250,940,2,750,560,5,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJD-CBL-003,Front brake cable,Cables,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Fast,No,1250,940,2,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJD-CBL-004,Speedometer cable,Cables,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Medium,No,1120,840,1,680,510,2,470,350,1,SA Products,No
+BJP-CBL-001,Accelerator (throttle) cable,Cables,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Piece,Fast,No,1250,940,2,750,560,3,520,390,1,SA Products,No
+BJP-CBL-002,Clutch cable,Cables,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Piece,Fast,No,1250,940,2,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRC-CBL-001,Accelerator (throttle) cable,Cables,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,SA Products,No
+HRC-CBL-002,Clutch cable,Cables,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRC-CBL-003,Front brake cable,Cables,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRC-CBL-004,Speedometer cable,Cables,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Medium,No,1120,840,1,680,510,1,470,350,0,SA Products,No
+HNC-CBL-001,Accelerator (throttle) cable,Cables,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,SA Products,No
+HNC-CBL-002,Clutch cable,Cables,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HNC-CBL-003,Front brake cable,Cables,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HNC-CBL-004,Speedometer cable,Cables,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Medium,No,1120,840,1,680,510,1,470,350,0,SA Products,No
+RNC-CBL-001,Accelerator (throttle) cable,Cables,Ranomoto,CG125,Motorcycle,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,SA Products,No
+RNC-CBL-002,Clutch cable,Cables,Ranomoto,CG125,Motorcycle,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNC-CBL-003,Front brake cable,Cables,Ranomoto,CG125,Motorcycle,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNC-CBL-004,Speedometer cable,Cables,Ranomoto,CG125,Motorcycle,Piece,Medium,No,1120,840,0,680,510,1,470,350,0,SA Products,No
+SZK-CBL-001,Accelerator (throttle) cable,Cables,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,SA Products,No
+SZK-CBL-002,Clutch cable,Cables,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+SZK-CBL-003,Front brake cable,Cables,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+SZK-CBL-004,Speedometer cable,Cables,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Medium,No,1120,840,0,680,510,1,470,350,0,SA Products,No
+TVA-CBL-001,Accelerator (throttle) cable,Cables,TVS,Apache RTR 160,Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,SA Products,No
+TVA-CBL-002,Clutch cable,Cables,TVS,Apache RTR 160,Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVC-CBL-001,Accelerator (throttle) cable,Cables,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,SA Products,No
+TVC-CBL-002,Clutch cable,Cables,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVC-CBL-003,Front brake cable,Cables,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVC-CBL-004,Speedometer cable,Cables,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Medium,No,1120,840,1,680,510,1,470,350,0,SA Products,No
+YMF-CBL-001,Accelerator (throttle) cable,Cables,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,SA Products,No
+YMF-CBL-002,Clutch cable,Cables,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJC-CLT-001,Clutch plate set,Clutch & gearbox,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Fast,No,1910,1430,1,1150,860,3,800,600,1,DPMC Bajaj genuine e-shop,No
+BJD-CLT-001,Clutch plate set,Clutch & gearbox,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Fast,No,1910,1430,1,1150,860,3,800,600,1,DPMC Bajaj genuine e-shop,No
+BJP-CLT-001,Clutch friction plate set,Clutch & gearbox,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Fast,No,4220,3160,1,2530,1900,2,1770,1330,1,DPMC Bajaj genuine e-shop,No
+HRC-CLT-001,Clutch plate set,Clutch & gearbox,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Fast,No,1910,1430,1,1150,860,2,800,600,0,DPMC Bajaj genuine e-shop,No
+HNC-CLT-001,Clutch plate set,Clutch & gearbox,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Fast,No,1910,1430,1,1150,860,2,800,600,0,DPMC Bajaj genuine e-shop,No
+RNC-CLT-001,Clutch plate set,Clutch & gearbox,Ranomoto,CG125,Motorcycle,Set,Fast,No,1910,1430,1,1150,860,1,800,600,0,DPMC Bajaj genuine e-shop,No
+SZK-CLT-001,Clutch plate set,Clutch & gearbox,Suzuki,"GN125, Gixxer",Motorcycle,Set,Fast,No,1910,1430,1,1150,860,1,800,600,0,DPMC Bajaj genuine e-shop,No
+TVA-CLT-001,Clutch friction plate set,Clutch & gearbox,TVS,Apache RTR 160,Motorcycle,Set,Fast,No,4220,3160,1,2530,1900,2,1770,1330,0,DPMC Bajaj genuine e-shop,No
+TVC-CLT-001,Clutch plate set,Clutch & gearbox,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Fast,No,1910,1430,1,1150,860,2,800,600,0,DPMC Bajaj genuine e-shop,No
+YMF-CLT-001,Clutch friction plate set,Clutch & gearbox,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Fast,No,4220,3160,1,2530,1900,2,1770,1330,0,DPMC Bajaj genuine e-shop,No
+BJC-CTL-001,Clutch / brake lever,Controls,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Fast,No,650,490,2,390,290,3,270,200,1,SA Products,No
+BJC-CTL-002,Handle grip set,Controls,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Fast,No,670,500,1,400,300,3,280,210,1,SA Products,No
+BJD-CTL-001,Clutch / brake lever,Controls,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Fast,No,650,490,2,390,290,3,270,200,1,SA Products,No
+BJD-CTL-002,Handle grip set,Controls,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Fast,No,670,500,1,400,300,3,280,210,1,SA Products,No
+BJP-CTL-001,Clutch / brake lever,Controls,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Piece,Fast,No,650,490,1,390,290,3,270,200,1,SA Products,No
+BJP-CTL-002,Handle grip set,Controls,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Fast,No,710,530,1,420,320,2,300,220,1,SA Products,No
+HRC-CTL-001,Clutch / brake lever,Controls,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Fast,No,650,490,1,390,290,2,270,200,1,SA Products,No
+HRC-CTL-002,Handle grip set,Controls,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Fast,No,670,500,1,400,300,2,280,210,0,SA Products,No
+HNC-CTL-001,Clutch / brake lever,Controls,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Fast,No,650,490,1,390,290,2,270,200,1,SA Products,No
+HNC-CTL-002,Handle grip set,Controls,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Fast,No,670,500,1,400,300,2,280,210,0,SA Products,No
+RNC-CTL-001,Clutch / brake lever,Controls,Ranomoto,CG125,Motorcycle,Piece,Fast,No,650,490,1,390,290,1,270,200,0,SA Products,No
+RNC-CTL-002,Handle grip set,Controls,Ranomoto,CG125,Motorcycle,Set,Fast,No,670,500,1,400,300,1,280,210,0,SA Products,No
+SZK-CTL-001,Clutch / brake lever,Controls,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Fast,No,650,490,1,390,290,1,270,200,0,SA Products,No
+SZK-CTL-002,Handle grip set,Controls,Suzuki,"GN125, Gixxer",Motorcycle,Set,Fast,No,670,500,1,400,300,1,280,210,0,SA Products,No
+TVA-CTL-001,Clutch / brake lever,Controls,TVS,Apache RTR 160,Motorcycle,Piece,Fast,No,650,490,1,390,290,2,270,200,0,SA Products,No
+TVA-CTL-002,Handle grip set,Controls,TVS,Apache RTR 160,Motorcycle,Set,Fast,No,710,530,1,420,320,2,300,220,0,SA Products,No
+TVC-CTL-001,Clutch / brake lever,Controls,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Fast,No,650,490,1,390,290,2,270,200,1,SA Products,No
+TVC-CTL-002,Handle grip set,Controls,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Fast,No,670,500,1,400,300,2,280,210,0,SA Products,No
+YMF-CTL-001,Clutch / brake lever,Controls,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Piece,Fast,No,650,490,1,390,290,2,270,200,0,SA Products,No
+YMF-CTL-002,Handle grip set,Controls,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Fast,No,710,530,1,420,320,2,300,220,0,SA Products,No
+BJC-ENT-001,Piston & ring kit (standard),Engine - top end,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Kit,Slow,No,5000,3750,1,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+BJC-ENT-002,Top gasket kit (half),Engine - top end,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Kit,Medium,No,710,530,1,420,320,2,300,220,1,SA Products,No
+BJC-ENT-003,Valve kit,Engine - top end,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Kit,Slow,No,3600,2700,0,2160,1620,1,1510,1130,0,DPMC Bajaj genuine e-shop,No
+BJD-ENT-001,Piston & ring kit (standard),Engine - top end,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Kit,Slow,No,5000,3750,1,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+BJD-ENT-002,Top gasket kit (half),Engine - top end,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Kit,Medium,No,710,530,1,420,320,2,300,220,1,SA Products,No
+BJD-ENT-003,Valve kit,Engine - top end,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Kit,Slow,No,3600,2700,0,2160,1620,1,1510,1130,0,DPMC Bajaj genuine e-shop,No
+BJP-ENT-001,Piston & ring kit (standard),Engine - top end,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Kit,Slow,No,5830,4370,0,3500,2620,1,2450,1840,0,ESTIMATE,Yes
+BJP-ENT-002,Top gasket kit (half),Engine - top end,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Kit,Medium,No,830,620,1,500,370,2,350,260,0,SA Products,No
+HRC-ENT-001,Piston & ring kit (standard),Engine - top end,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Kit,Slow,No,5000,3750,0,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+HRC-ENT-002,Top gasket kit (half),Engine - top end,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Kit,Medium,No,710,530,1,420,320,1,300,220,0,SA Products,No
+HRC-ENT-003,Valve kit,Engine - top end,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Kit,Slow,No,3600,2700,0,2160,1620,1,1510,1130,0,DPMC Bajaj genuine e-shop,No
+HNC-ENT-001,Piston & ring kit (standard),Engine - top end,Honda,"CD125, Shine 125, SP 125",Motorcycle,Kit,Slow,No,5000,3750,0,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+HNC-ENT-002,Top gasket kit (half),Engine - top end,Honda,"CD125, Shine 125, SP 125",Motorcycle,Kit,Medium,No,710,530,1,420,320,1,300,220,0,SA Products,No
+HNC-ENT-003,Valve kit,Engine - top end,Honda,"CD125, Shine 125, SP 125",Motorcycle,Kit,Slow,No,3600,2700,0,2160,1620,1,1510,1130,0,DPMC Bajaj genuine e-shop,No
+RNC-ENT-001,Piston & ring kit (standard),Engine - top end,Ranomoto,CG125,Motorcycle,Kit,Slow,No,5000,3750,0,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+RNC-ENT-002,Top gasket kit (half),Engine - top end,Ranomoto,CG125,Motorcycle,Kit,Medium,No,710,530,0,420,320,1,300,220,0,SA Products,No
+SZK-ENT-001,Piston & ring kit (standard),Engine - top end,Suzuki,"GN125, Gixxer",Motorcycle,Kit,Slow,No,5000,3750,0,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+SZK-ENT-002,Top gasket kit (half),Engine - top end,Suzuki,"GN125, Gixxer",Motorcycle,Kit,Medium,No,710,530,0,420,320,1,300,220,0,SA Products,No
+TVA-ENT-001,Piston & ring kit (standard),Engine - top end,TVS,Apache RTR 160,Motorcycle,Kit,Slow,No,5830,4370,0,3500,2620,1,2450,1840,0,ESTIMATE,Yes
+TVA-ENT-002,Top gasket kit (half),Engine - top end,TVS,Apache RTR 160,Motorcycle,Kit,Medium,No,830,620,1,500,370,1,350,260,0,SA Products,No
+TVC-ENT-001,Piston & ring kit (standard),Engine - top end,TVS,"Metro, Star City+, Raider 125",Motorcycle,Kit,Slow,No,5000,3750,0,3000,2250,1,2100,1580,0,ESTIMATE,Yes
+TVC-ENT-002,Top gasket kit (half),Engine - top end,TVS,"Metro, Star City+, Raider 125",Motorcycle,Kit,Medium,No,710,530,1,420,320,1,300,220,0,SA Products,No
+TVC-ENT-003,Valve kit,Engine - top end,TVS,"Metro, Star City+, Raider 125",Motorcycle,Kit,Slow,No,3600,2700,0,2160,1620,1,1510,1130,0,DPMC Bajaj genuine e-shop,No
+YMF-ENT-001,Piston & ring kit (standard),Engine - top end,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Kit,Slow,No,5830,4370,0,3500,2620,1,2450,1840,0,ESTIMATE,Yes
+YMF-ENT-002,Top gasket kit (half),Engine - top end,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Kit,Medium,No,830,620,1,500,370,1,350,260,0,SA Products,No
+BJC-FDR-001,Chain sprocket kit,Final drive,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Kit,Fast,No,8960,6720,1,5380,4030,2,3760,2820,1,DPMC Bajaj genuine e-shop,No
+BJD-FDR-001,Chain sprocket kit,Final drive,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Kit,Fast,No,9960,7470,1,5980,4480,2,4180,3140,1,DPMC Bajaj genuine e-shop,No
+BJP-FDR-001,Chain sprocket kit,Final drive,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Kit,Fast,No,12240,9180,1,7340,5510,2,5140,3860,0,DPMC Bajaj genuine e-shop,No
+HRC-FDR-001,Chain sprocket kit,Final drive,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Kit,Fast,No,9530,7150,1,5720,4290,1,4000,3000,0,BikeParts.LK online store,No
+HNC-FDR-001,Chain sprocket kit,Final drive,Honda,"CD125, Shine 125, SP 125",Motorcycle,Kit,Fast,No,8820,6610,1,5290,3970,1,3700,2780,0,BikeParts.LK online store,No
+RNC-FDR-001,Chain sprocket kit,Final drive,Ranomoto,CG125,Motorcycle,Kit,Fast,No,8820,6610,0,5290,3970,1,3700,2780,0,BikeParts.LK online store,No
+SZK-FDR-001,Chain sprocket kit,Final drive,Suzuki,"GN125, Gixxer",Motorcycle,Kit,Fast,No,8820,6610,0,5290,3970,1,3700,2780,0,BikeParts.LK online store,No
+TVA-FDR-001,Chain sprocket kit,Final drive,TVS,Apache RTR 160,Motorcycle,Kit,Fast,No,9250,6940,1,5550,4160,1,3880,2910,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVC-FDR-001,Chain sprocket kit,Final drive,TVS,"Metro, Star City+, Raider 125",Motorcycle,Kit,Fast,No,9330,7000,1,5600,4200,1,3920,2940,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMF-FDR-001,Chain sprocket kit,Final drive,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Kit,Fast,No,9250,6940,1,5550,4160,1,3880,2910,0,ESTIMATE,Yes
+BJC-FUE-001,Carburettor repair kit,Fuel system,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Kit,Medium,No,1500,1120,1,900,680,1,630,470,0,ESTIMATE,Yes
+BJD-FUE-001,Carburettor repair kit,Fuel system,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Kit,Medium,No,1500,1120,1,900,680,1,630,470,0,ESTIMATE,Yes
+HRC-FUE-001,Carburettor repair kit,Fuel system,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Kit,Medium,No,1500,1120,0,900,680,1,630,470,0,ESTIMATE,Yes
+HNC-FUE-001,Carburettor repair kit,Fuel system,Honda,"CD125, Shine 125, SP 125",Motorcycle,Kit,Medium,No,1500,1120,0,900,680,1,630,470,0,ESTIMATE,Yes
+RNC-FUE-001,Carburettor repair kit,Fuel system,Ranomoto,CG125,Motorcycle,Kit,Medium,No,1500,1120,0,900,680,1,630,470,0,ESTIMATE,Yes
+SZK-FUE-001,Carburettor repair kit,Fuel system,Suzuki,"GN125, Gixxer",Motorcycle,Kit,Medium,No,1500,1120,0,900,680,1,630,470,0,ESTIMATE,Yes
+TVC-FUE-001,Carburettor repair kit,Fuel system,TVS,"Metro, Star City+, Raider 125",Motorcycle,Kit,Medium,No,1500,1120,0,900,680,1,630,470,0,ESTIMATE,Yes
+BJC-IGN-001,CDI unit,Ignition & charging,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Medium,No,3950,2960,1,2370,1780,1,1660,1240,0,BikeParts.LK online store,No
+BJC-IGN-002,Regulator rectifier,Ignition & charging,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Piece,Medium,No,3670,2750,1,2200,1650,1,1540,1160,0,SA Products,No
+BJD-IGN-001,CDI unit,Ignition & charging,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Medium,No,3950,2960,1,2370,1780,1,1660,1240,0,BikeParts.LK online store,No
+BJD-IGN-002,Regulator rectifier,Ignition & charging,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Piece,Medium,No,3670,2750,1,2200,1650,1,1540,1160,0,SA Products,No
+BJP-IGN-001,CDI / ignition unit,Ignition & charging,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Piece,Medium,No,10480,7860,0,6280,4710,1,4400,3300,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJP-IGN-002,Regulator rectifier,Ignition & charging,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Piece,Medium,No,3670,2750,1,2200,1650,1,1540,1160,0,SA Products,No
+HRC-IGN-001,CDI unit,Ignition & charging,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Medium,No,7280,5460,0,4370,3280,1,3060,2290,0,BikeParts.LK online store,No
+HRC-IGN-002,Regulator rectifier,Ignition & charging,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+HNC-IGN-001,CDI unit,Ignition & charging,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Medium,No,7280,5460,0,4370,3280,1,3060,2290,0,BikeParts.LK online store,No
+HNC-IGN-002,Regulator rectifier,Ignition & charging,Honda,"CD125, Shine 125, SP 125",Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+RNC-IGN-001,CDI unit,Ignition & charging,Ranomoto,CG125,Motorcycle,Piece,Medium,No,7280,5460,0,4370,3280,1,3060,2290,0,BikeParts.LK online store,No
+RNC-IGN-002,Regulator rectifier,Ignition & charging,Ranomoto,CG125,Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+SZK-IGN-001,CDI unit,Ignition & charging,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Medium,No,7280,5460,0,4370,3280,1,3060,2290,0,BikeParts.LK online store,No
+SZK-IGN-002,Regulator rectifier,Ignition & charging,Suzuki,"GN125, Gixxer",Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+TVA-IGN-001,CDI / ignition unit,Ignition & charging,TVS,Apache RTR 160,Motorcycle,Piece,Medium,No,10480,7860,0,6280,4710,1,4400,3300,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVA-IGN-002,Regulator rectifier,Ignition & charging,TVS,Apache RTR 160,Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+TVC-IGN-001,CDI unit,Ignition & charging,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Medium,No,7280,5460,0,4370,3280,1,3060,2290,0,BikeParts.LK online store,No
+TVC-IGN-002,Regulator rectifier,Ignition & charging,TVS,"Metro, Star City+, Raider 125",Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+YMF-IGN-001,CDI / ignition unit,Ignition & charging,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Piece,Medium,No,10480,7860,0,6280,4710,1,4400,3300,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMF-IGN-002,Regulator rectifier,Ignition & charging,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Piece,Medium,No,3670,2750,0,2200,1650,1,1540,1160,0,SA Products,No
+BJC-LGT-001,Indicator light set,Lighting,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Medium,No,1500,1120,1,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJD-LGT-001,Indicator light set,Lighting,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Medium,No,1500,1120,1,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJP-LGT-001,Indicator light set,Lighting,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Medium,No,1500,1120,1,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRC-LGT-001,Indicator light set,Lighting,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HNC-LGT-001,Indicator light set,Lighting,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNC-LGT-001,Indicator light set,Lighting,Ranomoto,CG125,Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+SZK-LGT-001,Indicator light set,Lighting,Suzuki,"GN125, Gixxer",Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVA-LGT-001,Indicator light set,Lighting,TVS,Apache RTR 160,Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVC-LGT-001,Indicator light set,Lighting,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMF-LGT-001,Indicator light set,Lighting,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Medium,No,1500,1120,0,900,680,1,630,470,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJC-STR-001,Starter motor carbon brush,Starting & switches,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Medium,No,1000,750,1,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJD-STR-001,Starter motor carbon brush,Starting & switches,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Medium,No,1000,750,1,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRC-STR-001,Starter motor carbon brush,Starting & switches,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Medium,No,1000,750,0,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HNC-STR-001,Starter motor carbon brush,Starting & switches,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Medium,No,1000,750,0,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVC-STR-001,Starter motor carbon brush,Starting & switches,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Medium,No,1000,750,0,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+BJC-SUS-001,Front fork oil seal set,Suspension,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Medium,No,1080,810,1,650,490,2,450,340,1,ESTIMATE,Yes
+BJC-SUS-002,Rear shock absorber (pair),Suspension,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Pair,Slow,No,10000,7500,1,6000,4500,1,4200,3150,0,"Facebook Marketplace listing, Maligawatta",No
+BJD-SUS-001,Front fork oil seal set,Suspension,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Medium,No,1080,810,1,650,490,2,450,340,1,ESTIMATE,Yes
+BJD-SUS-002,Rear shock absorber (pair),Suspension,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Pair,Slow,No,10000,7500,1,6000,4500,1,4200,3150,0,"Facebook Marketplace listing, Maligawatta",No
+BJP-SUS-001,Front fork oil seal set,Suspension,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Medium,No,1080,810,1,650,490,2,450,340,0,ESTIMATE,Yes
+HRC-SUS-001,Front fork oil seal set,Suspension,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Medium,No,1080,810,1,650,490,1,450,340,0,ESTIMATE,Yes
+HRC-SUS-002,Rear shock absorber (pair),Suspension,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Pair,Slow,No,10000,7500,0,6000,4500,1,4200,3150,0,"Facebook Marketplace listing, Maligawatta",No
+HNC-SUS-001,Front fork oil seal set,Suspension,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Medium,No,1080,810,1,650,490,1,450,340,0,ESTIMATE,Yes
+HNC-SUS-002,Rear shock absorber (pair),Suspension,Honda,"CD125, Shine 125, SP 125",Motorcycle,Pair,Slow,No,10000,7500,0,6000,4500,1,4200,3150,0,"Facebook Marketplace listing, Maligawatta",No
+RNC-SUS-001,Front fork oil seal set,Suspension,Ranomoto,CG125,Motorcycle,Set,Medium,No,1080,810,0,650,490,1,450,340,0,ESTIMATE,Yes
+SZK-SUS-001,Front fork oil seal set,Suspension,Suzuki,"GN125, Gixxer",Motorcycle,Set,Medium,No,1080,810,0,650,490,1,450,340,0,ESTIMATE,Yes
+TVA-SUS-001,Front fork oil seal set,Suspension,TVS,Apache RTR 160,Motorcycle,Set,Medium,No,1080,810,1,650,490,1,450,340,0,ESTIMATE,Yes
+TVC-SUS-001,Front fork oil seal set,Suspension,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Medium,No,1080,810,1,650,490,1,450,340,0,ESTIMATE,Yes
+TVC-SUS-002,Rear shock absorber (pair),Suspension,TVS,"Metro, Star City+, Raider 125",Motorcycle,Pair,Slow,No,10000,7500,0,6000,4500,1,4200,3150,0,"Facebook Marketplace listing, Maligawatta",No
+YMF-SUS-001,Front fork oil seal set,Suspension,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Medium,No,1080,810,1,650,490,1,450,340,0,ESTIMATE,Yes
+UNI-TYR-001,Tyre 2.75-17 (tube type),Tyres & tubes,Universal,Commuter front 17-inch,Motorcycle,Piece,Medium,Yes,6870,5150,3,,,,,,,DSI Tyre Shop,No
+UNI-TYR-002,Tyre 80/100-18 tubeless (DSI Gen X),Tyres & tubes,Universal,Commuter tubeless,Motorcycle,Piece,Medium,Yes,11500,8620,3,,,,,,,Sandun Tyre Center DSI price list,No
+UNI-TYR-003,Tyre 3.00-18 (tube type),Tyres & tubes,Universal,Discover / CD125 rear,Motorcycle,Piece,Fast,Yes,8500,6380,4,,,,,,,ESTIMATE,Yes
+UNI-TYR-004,Tube 17-inch,Tyres & tubes,Universal,Motorcycles,Motorcycle,Piece,Fast,Yes,1400,1050,8,,,,,,,ESTIMATE,Yes
+UNI-TYR-005,Tube 2.75/3.00-18 (DSI),Tyres & tubes,Universal,Motorcycles,Motorcycle,Piece,Fast,Yes,1490,1120,20,,,,,,,DSI Tyre Shop,No
+UNI-TYR-006,"Tyre 2.75-18 (DSI, tube type)",Tyres & tubes,Universal,Platina / Splendor / CT100,Motorcycle,Piece,Fast,Yes,7700,5780,6,,,,,,,DSI Tyre Shop,No
+UNI-TYR-007,Tyre 100/90-18 tubeless (MRF),Tyres & tubes,Universal,Pulsar / FZ rear,Motorcycle,Piece,Medium,Yes,18800,14100,2,,,,,,,DPMC MRF tyre price list,No
+UNI-TYR-008,Tyre 130/70-17 tubeless (MRF),Tyres & tubes,Universal,Pulsar NS200 / RS200,Motorcycle,Piece,Slow,Yes,18550,13910,1,,,,,,,DPMC MRF tyre price list,No
+BJC-WHL-001,Hub damper rubber set,Wheels,Bajaj,"CT100, Platina 100, Platina 125, Boxer",Motorcycle,Set,Medium,No,970,730,1,580,440,2,410,300,1,SA Products,No
+BJD-WHL-001,Hub damper rubber set,Wheels,Bajaj,"Discover 125, Discover 100, Discover 135",Motorcycle,Set,Medium,No,970,730,1,580,440,2,410,300,1,SA Products,No
+BJP-WHL-001,Hub damper rubber set,Wheels,Bajaj,"Pulsar 150, Pulsar N160, Pulsar 180",Motorcycle,Set,Medium,No,970,730,1,580,440,2,410,300,1,SA Products,No
+HRC-WHL-001,Hub damper rubber set,Wheels,Hero,"Splendor, HF Deluxe, Passion",Motorcycle,Set,Medium,No,970,730,1,580,440,1,410,300,0,SA Products,No
+HNC-WHL-001,Hub damper rubber set,Wheels,Honda,"CD125, Shine 125, SP 125",Motorcycle,Set,Medium,No,970,730,1,580,440,1,410,300,0,SA Products,No
+RNC-WHL-001,Hub damper rubber set,Wheels,Ranomoto,CG125,Motorcycle,Set,Medium,No,970,730,0,580,440,1,410,300,0,SA Products,No
+SZK-WHL-001,Hub damper rubber set,Wheels,Suzuki,"GN125, Gixxer",Motorcycle,Set,Medium,No,970,730,0,580,440,1,410,300,0,SA Products,No
+TVA-WHL-001,Hub damper rubber set,Wheels,TVS,Apache RTR 160,Motorcycle,Set,Medium,No,970,730,1,580,440,1,410,300,0,SA Products,No
+TVC-WHL-001,Hub damper rubber set,Wheels,TVS,"Metro, Star City+, Raider 125",Motorcycle,Set,Medium,No,970,730,1,580,440,1,410,300,0,SA Products,No
+YMF-WHL-001,Hub damper rubber set,Wheels,Yamaha,"FZ, FZ-S FI, FZ V2",Motorcycle,Set,Medium,No,970,730,1,580,440,1,410,300,0,SA Products,No
+HRS-ACC-001,Floor mat / carpet,Accessories,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Medium,No,2080,1560,1,1250,940,1,870,660,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HND-ACC-001,Floor mat / carpet,Accessories,Honda,"Dio 110, Dio 125",Scooter,Piece,Medium,No,2080,1560,1,1250,940,2,870,660,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNP-ACC-001,Floor mat / carpet,Accessories,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Medium,No,2080,1560,0,1250,940,1,870,660,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVS-ACC-001,Floor mat / carpet,Accessories,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Medium,No,2080,1560,1,1250,940,1,870,660,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMR-ACC-001,Floor mat / carpet,Accessories,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Medium,No,2080,1560,0,1250,940,1,870,660,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRS-BDY-001,Side mirror set (LH+RH),Body & plastics,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Set,Fast,No,2500,1880,1,1500,1120,2,1050,790,0,SA Products,No
+HND-BDY-001,Side mirror set (LH+RH),Body & plastics,Honda,"Dio 110, Dio 125",Scooter,Set,Fast,No,2500,1880,1,1500,1120,2,1050,790,1,SA Products,No
+RNP-BDY-001,Side mirror set (LH+RH),Body & plastics,Ranomoto,"Pattaya, Dream 125",Scooter,Set,Fast,No,2500,1880,0,1500,1120,1,1050,790,0,SA Products,No
+TVS-BDY-001,Side mirror set (LH+RH),Body & plastics,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Set,Fast,No,2500,1880,1,1500,1120,2,1050,790,0,SA Products,No
+YMR-BDY-001,Side mirror set (LH+RH),Body & plastics,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Set,Fast,No,2500,1880,0,1500,1120,1,1050,790,0,SA Products,No
+HRS-BRK-001,Brake shoe set,Brakes,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Set,Fast,No,1580,1190,2,950,710,3,660,500,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HND-BRK-001,Brake shoe set,Brakes,Honda,"Dio 110, Dio 125",Scooter,Set,Fast,No,1580,1190,3,950,710,5,660,500,2,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNP-BRK-001,Brake shoe set,Brakes,Ranomoto,"Pattaya, Dream 125",Scooter,Set,Fast,No,1580,1190,1,950,710,2,660,500,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVS-BRK-001,Brake shoe set,Brakes,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Set,Fast,No,1580,1190,2,950,710,3,660,500,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMR-BRK-001,Brake shoe set,Brakes,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Set,Fast,No,1580,1190,1,950,710,2,660,500,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRS-CVT-001,Clutch shoe set,CVT transmission,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Set,Medium,No,4170,3130,0,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+HRS-CVT-002,Drive belt (V-belt),CVT transmission,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Fast,No,4170,3130,1,2500,1880,2,1750,1310,0,ESTIMATE,Yes
+HRS-CVT-003,Variator body,CVT transmission,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Slow,No,4750,3560,0,2850,2140,1,2000,1500,0,SA Products,No
+HRS-CVT-004,Variator roller set,CVT transmission,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Set,Fast,No,1080,810,1,650,490,2,450,340,0,SA Products,No
+HND-CVT-001,Clutch shoe set,CVT transmission,Honda,"Dio 110, Dio 125",Scooter,Set,Medium,No,4170,3130,1,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+HND-CVT-002,Drive belt (V-belt),CVT transmission,Honda,"Dio 110, Dio 125",Scooter,Piece,Fast,No,4170,3130,1,2500,1880,2,1750,1310,1,ESTIMATE,Yes
+HND-CVT-003,Variator body,CVT transmission,Honda,"Dio 110, Dio 125",Scooter,Piece,Slow,No,4750,3560,0,2850,2140,1,2000,1500,0,SA Products,No
+HND-CVT-004,Variator roller set,CVT transmission,Honda,"Dio 110, Dio 125",Scooter,Set,Fast,No,1080,810,1,650,490,3,450,340,1,SA Products,No
+RNP-CVT-001,Clutch shoe set,CVT transmission,Ranomoto,"Pattaya, Dream 125",Scooter,Set,Medium,No,4170,3130,0,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+RNP-CVT-002,Drive belt (V-belt),CVT transmission,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Fast,No,4170,3130,0,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+RNP-CVT-003,Variator roller set,CVT transmission,Ranomoto,"Pattaya, Dream 125",Scooter,Set,Fast,No,1080,810,1,650,490,1,450,340,0,SA Products,No
+TVS-CVT-001,Clutch shoe set,CVT transmission,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Set,Medium,No,4170,3130,0,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+TVS-CVT-002,Drive belt (V-belt),CVT transmission,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Fast,No,4170,3130,1,2500,1880,2,1750,1310,0,ESTIMATE,Yes
+TVS-CVT-003,Variator body,CVT transmission,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Slow,No,4750,3560,0,2850,2140,1,2000,1500,0,SA Products,No
+TVS-CVT-004,Variator roller set,CVT transmission,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Set,Fast,No,1080,810,1,650,490,2,450,340,0,SA Products,No
+YMR-CVT-001,Clutch shoe set,CVT transmission,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Set,Medium,No,4170,3130,0,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+YMR-CVT-002,Drive belt (V-belt),CVT transmission,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Fast,No,4170,3130,0,2500,1880,1,1750,1310,0,ESTIMATE,Yes
+YMR-CVT-003,Variator roller set,CVT transmission,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Set,Fast,No,1080,810,1,650,490,1,450,340,0,SA Products,No
+HRS-CBL-001,Front brake cable,Cables,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Fast,No,1250,940,1,750,560,2,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRS-CBL-002,Rear brake cable,Cables,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Fast,No,1580,1190,1,950,710,2,660,500,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRS-CBL-003,Speedometer cable,Cables,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Medium,No,1120,840,1,680,510,1,470,350,0,SA Products,No
+HRS-CBL-004,Throttle cable,Cables,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,SA Products,No
+HND-CBL-001,Front brake cable,Cables,Honda,"Dio 110, Dio 125",Scooter,Piece,Fast,No,1250,940,1,750,560,3,520,390,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HND-CBL-002,Rear brake cable,Cables,Honda,"Dio 110, Dio 125",Scooter,Piece,Fast,No,1580,1190,1,950,710,3,660,500,1,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HND-CBL-003,Speedometer cable,Cables,Honda,"Dio 110, Dio 125",Scooter,Piece,Medium,No,1120,840,1,680,510,2,470,350,0,SA Products,No
+HND-CBL-004,Throttle cable,Cables,Honda,"Dio 110, Dio 125",Scooter,Piece,Fast,No,1250,940,2,750,560,3,520,390,1,SA Products,No
+RNP-CBL-001,Front brake cable,Cables,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNP-CBL-002,Rear brake cable,Cables,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Fast,No,1580,1190,1,950,710,1,660,500,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNP-CBL-003,Speedometer cable,Cables,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Medium,No,1120,840,0,680,510,1,470,350,0,SA Products,No
+RNP-CBL-004,Throttle cable,Cables,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,SA Products,No
+TVS-CBL-001,Front brake cable,Cables,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Fast,No,1250,940,1,750,560,2,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVS-CBL-002,Rear brake cable,Cables,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Fast,No,1580,1190,1,950,710,2,660,500,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVS-CBL-003,Speedometer cable,Cables,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Medium,No,1120,840,1,680,510,1,470,350,0,SA Products,No
+TVS-CBL-004,Throttle cable,Cables,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Fast,No,1250,940,1,750,560,2,520,390,1,SA Products,No
+YMR-CBL-001,Front brake cable,Cables,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMR-CBL-002,Rear brake cable,Cables,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Fast,No,1580,1190,1,950,710,1,660,500,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMR-CBL-003,Speedometer cable,Cables,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Medium,No,1120,840,0,680,510,1,470,350,0,SA Products,No
+YMR-CBL-004,Throttle cable,Cables,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Fast,No,1250,940,1,750,560,1,520,390,0,SA Products,No
+HRS-CTL-001,Handle grip set,Controls,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Set,Fast,No,630,470,1,380,280,2,270,200,0,SA Products,No
+HND-CTL-001,Handle grip set,Controls,Honda,"Dio 110, Dio 125",Scooter,Set,Fast,No,630,470,1,380,280,3,270,200,1,SA Products,No
+RNP-CTL-001,Handle grip set,Controls,Ranomoto,"Pattaya, Dream 125",Scooter,Set,Fast,No,630,470,1,380,280,1,270,200,0,SA Products,No
+TVS-CTL-001,Handle grip set,Controls,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Set,Fast,No,630,470,1,380,280,2,270,200,0,SA Products,No
+YMR-CTL-001,Handle grip set,Controls,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Set,Fast,No,630,470,1,380,280,1,270,200,0,SA Products,No
+HRS-IGN-001,CDI unit,Ignition & charging,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Piece,Medium,No,14170,10630,0,8500,6380,1,5950,4460,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HND-IGN-001,CDI unit,Ignition & charging,Honda,"Dio 110, Dio 125",Scooter,Piece,Medium,No,14170,10630,0,8500,6380,1,5950,4460,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNP-IGN-001,CDI unit,Ignition & charging,Ranomoto,"Pattaya, Dream 125",Scooter,Piece,Medium,No,14170,10630,0,8500,6380,1,5950,4460,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVS-IGN-001,CDI unit,Ignition & charging,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Piece,Medium,No,14170,10630,0,8500,6380,1,5950,4460,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMR-IGN-001,CDI unit,Ignition & charging,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Piece,Medium,No,14170,10630,0,8500,6380,1,5950,4460,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HRS-STR-001,Starter motor carbon brush,Starting & switches,Hero,"Pleasure, Maestro, Xoom 110",Scooter,Set,Medium,No,1000,750,1,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+HND-STR-001,Starter motor carbon brush,Starting & switches,Honda,"Dio 110, Dio 125",Scooter,Set,Medium,No,1000,750,1,600,450,2,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+RNP-STR-001,Starter motor carbon brush,Starting & switches,Ranomoto,"Pattaya, Dream 125",Scooter,Set,Medium,No,1000,750,0,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+TVS-STR-001,Starter motor carbon brush,Starting & switches,TVS,"Wego, Ntorq 125, Scooty Pep+",Scooter,Set,Medium,No,1000,750,1,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+YMR-STR-001,Starter motor carbon brush,Starting & switches,Yamaha,"Ray ZR 115, Ray ZR 125",Scooter,Set,Medium,No,1000,750,0,600,450,1,420,320,0,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+UNI-TYR-009,Scooter tyre 90/100-10,Tyres & tubes,Universal,Dio / Pleasure / Wego / Ray ZR,Scooter,Piece,Medium,Yes,7500,5620,4,,,,,,,ESTIMATE,Yes
+RE2-BRK-001,Brake shoe set (2S),Brakes,Bajaj,"RE 2S 3-port, RE 2S 5-port",Three-wheeler,Set,Fast,No,1330,1000,2,800,600,5,560,420,1,SA Products,No
+RE2-BRK-002,Master cylinder (3-port),Brakes,Bajaj,RE 2S 3-port,Three-wheeler,Piece,Slow,No,7000,5250,1,4200,3150,1,2940,2200,0,SA Products,No
+REX-BRK-001,Rear brake drum,Brakes,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Slow,No,6000,4500,1,3600,2700,1,2520,1890,0,SA Products,No
+REX-BRK-002,Wheel cylinder minor kit (rear),Brakes,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Kit,Fast,No,290,220,5,180,130,12,120,90,3,SA Products,No
+RE4-BRK-001,Brake shoe kit (auto adjuster),Brakes,Bajaj,"RE 4S, RE 205, RE Compact 4S",Three-wheeler,Set,Fast,No,1850,1390,4,1110,830,9,780,580,2,DPMC Bajaj genuine parts,No
+RE4-BRK-002,Hand brake lever,Brakes,Bajaj,"RE 4S 175, RE 205",Three-wheeler,Piece,Medium,No,370,280,1,220,170,2,150,120,1,SA Products,No
+RE4-BRK-003,Master cylinder assembly,Brakes,Bajaj,RE 205,Three-wheeler,Piece,Medium,No,7000,5250,1,4200,3150,2,2940,2200,0,SA Products,No
+TVK-BRK-001,Brake shoe set,Brakes,TVS,"King 4S, King Deluxe",Three-wheeler,Set,Fast,No,1850,1390,2,1110,830,3,780,580,1,ESTIMATE,Yes
+REX-CBL-001,Accelerator cable,Cables,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Fast,No,1500,1120,2,900,680,5,630,470,1,ESTIMATE,Yes
+REX-CBL-002,Clutch cable,Cables,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Fast,No,1500,1120,2,900,680,5,630,470,1,ESTIMATE,Yes
+REX-CBL-003,Gear cable,Cables,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Fast,No,1500,1120,2,900,680,3,630,470,1,ESTIMATE,Yes
+TVK-CBL-001,Clutch / accelerator cable,Cables,TVS,"King 4S, King Deluxe, King 2S",Three-wheeler,Piece,Fast,No,1500,1120,2,900,680,3,630,470,1,ESTIMATE,Yes
+REX-CLT-001,Clutch driving plate set (5P),Clutch & gearbox,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Set,Fast,No,1400,1050,2,840,630,3,590,440,1,SA Products,No
+RE2-CLT-001,Clutch plate set (2S),Clutch & gearbox,Bajaj,"RE 2S 3-port, RE 2S 5-port",Three-wheeler,Set,Medium,No,5250,3940,1,3150,2360,2,2200,1650,0,ClassifyLanka Bajaj 3W parts guide,No
+RE4-CLT-001,Clutch plate set,Clutch & gearbox,Bajaj,"RE 4S, RE 205, RE Compact 4S",Three-wheeler,Set,Fast,No,5250,3940,2,3150,2360,3,2200,1650,1,ClassifyLanka Bajaj 3W parts guide,No
+RE4-CLT-002,Clutch release (4S),Clutch & gearbox,Bajaj,"RE 4S, RE 205, RE Compact 4S",Three-wheeler,Piece,Medium,No,670,500,1,400,300,2,280,210,1,SA Products,No
+REF-CLT-001,Clutch complete assembly (77T),Clutch & gearbox,Bajaj,RE FL,Three-wheeler,Piece,Slow,No,14250,10690,0,8550,6410,1,5980,4490,0,DPMC Bajaj genuine e-shop,No
+TVK-CLT-001,Clutch plate set,Clutch & gearbox,TVS,"King 4S, King Deluxe",Three-wheeler,Set,Medium,No,5250,3940,1,3150,2360,2,2200,1650,0,ESTIMATE,Yes
+RE2-ENB-001,Kick wheel (2S),Engine - bottom end,Bajaj,"RE 2S 3-port, RE 2S 5-port",Three-wheeler,Piece,Slow,No,1420,1060,1,850,640,1,600,450,0,SA Products,No
+RE2-ENT-001,Engine gasket set (2S),Engine - top end,Bajaj,"RE 2S 3-port, RE 2S 5-port",Three-wheeler,Set,Medium,No,980,740,1,590,440,2,410,310,0,ESTIMATE,Yes
+RE2-ENT-002,Piston kit (2S),Engine - top end,Bajaj,"RE 2S 3-port, RE 2S 5-port",Three-wheeler,Kit,Medium,No,6670,5000,1,4000,3000,1,2800,2100,0,ClassifyLanka Bajaj 3W parts guide,No
+RE4-ENT-001,Engine gasket full set 205cc,Engine - top end,Bajaj,RE 205,Three-wheeler,Set,Fast,No,1040,780,2,630,470,3,440,330,1,SA Products,No
+RE4-ENT-002,Piston kit,Engine - top end,Bajaj,"RE 4S, RE 205, RE Compact 4S",Three-wheeler,Kit,Medium,No,6670,5000,1,4000,3000,2,2800,2100,0,ClassifyLanka Bajaj 3W parts guide,No
+RE4-ENT-003,Engine gasket full set 175cc,Engine - top end,Bajaj,RE 4S 175,Three-wheeler,Set,Medium,No,980,740,1,590,440,2,410,310,1,SA Products,No
+TVK-ENT-001,Engine gasket full set,Engine - top end,TVS,"King 4S, King Deluxe",Three-wheeler,Set,Medium,No,1040,780,1,630,470,2,440,330,0,ESTIMATE,Yes
+RE4-FLT-001,Oil filter element,Filters,Bajaj,"RE 4S 175, RE 205",Three-wheeler,Piece,Fast,No,420,320,5,250,190,12,180,130,3,DPMC Bajaj genuine parts,No
+REF-FLT-001,Oil filter assembly (FL),Filters,Bajaj,RE FL,Three-wheeler,Piece,Fast,No,1290,970,2,770,580,3,540,410,1,DPMC Bajaj genuine parts,No
+TVK-FLT-001,Oil filter element,Filters,TVS,"King 4S, King Deluxe",Three-wheeler,Piece,Fast,No,420,320,2,250,190,5,180,130,1,ESTIMATE,Yes
+RE2-FUE-001,Carburettor (3-port),Fuel system,Bajaj,RE 2S 3-port,Three-wheeler,Piece,Slow,No,7830,5870,0,4700,3520,1,3290,2470,0,SA Products,No
+RE4-IGN-001,Regulator assembly 4S,Ignition & charging,Bajaj,"RE 4S, RE 205, RE Compact 4S",Three-wheeler,Piece,Medium,No,5750,4310,1,3450,2590,1,2420,1810,0,SA Products,No
+REF-IGN-001,CDI unit (Compact FL),Ignition & charging,Bajaj,RE Compact 4S FL,Three-wheeler,Piece,Medium,No,7420,5560,1,4450,3340,1,3120,2340,0,SA Products,No
+TVK-IGN-001,CDI unit,Ignition & charging,TVS,"King 4S, King Deluxe",Three-wheeler,Piece,Slow,No,7420,5560,0,4450,3340,1,3120,2340,0,ESTIMATE,Yes
+REX-LGT-001,Head lamp bulb,Lighting,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Fast,No,990,740,3,590,450,5,420,310,2,DPMC Bajaj genuine parts,No
+REX-LGT-002,Tail light lens,Lighting,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Medium,No,1580,1190,1,950,710,2,660,500,0,SA Products,No
+RE2-LGT-001,Tail light lens (2S),Lighting,Bajaj,"RE 2S 3-port, RE 2S 5-port",Three-wheeler,Piece,Medium,No,1580,1190,1,950,710,1,660,500,0,SA Products,No
+RE4-STR-001,Starter armature assembly 4S,Starting & switches,Bajaj,"RE 4S, RE 205, RE Compact 4S",Three-wheeler,Piece,Slow,No,7670,5750,0,4600,3450,1,3220,2420,0,SA Products,No
+REX-SUS-001,Front shock absorber,Suspension,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Slow,No,10830,8120,1,6500,4870,1,4550,3410,0,ESTIMATE,Yes
+REX-TWB-001,Canvas hood (roof),Three-wheeler body & canopy,Bajaj,"RE 2S, RE 4S, RE 205, RE FL",Three-wheeler,Piece,Slow,No,20000,15000,0,12000,9000,1,8400,6300,0,ESTIMATE,Yes
+TWX-TWB-001,Wiper blade,Three-wheeler body & canopy,Universal,"RE 4S, RE 205, King 4S",Three-wheeler,Piece,Fast,No,750,560,2,450,340,3,320,240,1,ESTIMATE,Yes
+TWX-TYR-001,Tube 4.00-8 (DSI),Tyres & tubes,Universal,"RE 4S, RE 205, King 4S",Three-wheeler,Piece,Fast,Yes,1200,900,15,,,,,,,DSI Tyre Shop,No
+TWX-TYR-002,Tyre 4.00-8 (DSI Jawaya),Tyres & tubes,Universal,"RE 4S, RE 205, King 4S",Three-wheeler,Piece,Fast,Yes,7190,5390,8,,,,,,,DSI Tyre Shop,No
+UNI-IGN-001,Spark plug Champion CR9E,Ignition & charging,Universal,Apache / Ntorq / Wego,All,Piece,Fast,Yes,650,490,10,,,,,,,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+UNI-IGN-002,Spark plug Champion C7HSA,Ignition & charging,Universal,Bajaj CT100 / TVS Metro / Star,All,Piece,Fast,Yes,550,410,30,,,,,,,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+UNI-IGN-003,Spark plug (Pulsar / Discover),Ignition & charging,Universal,Bajaj Pulsar / Discover,All,Piece,Fast,Yes,690,520,20,,,,,,,SA Products,No
+TWX-IGN-001,Battery (three-wheeler),Ignition & charging,Universal,"RE 4S, RE 205, King 4S",All,Piece,Slow,Yes,18000,13500,2,,,,,,,ESTIMATE,Yes
+TWX-IGN-002,Spark plug (three-wheeler),Ignition & charging,Universal,"RE 4S, RE 205, King 4S",All,Piece,Fast,Yes,690,520,20,,,,,,,ESTIMATE,Yes
+UNI-IGN-004,Spark plug NGK C7HSA,Ignition & charging,Universal,Commuter bikes / scooters,All,Piece,Fast,Yes,950,710,20,,,,,,,"Shantha Motors TVS parts price list, updated 26 Oct 2026",No
+UNI-IGN-005,Battery 12V 5Ah MF,Ignition & charging,Universal,Motorcycles / scooters,All,Piece,Medium,Yes,7500,5620,4,,,,,,,ESTIMATE,Yes
+UNI-LGT-001,Tail / indicator bulbs (assorted),Lighting,Universal,All,All,Piece,Fast,Yes,80,60,50,,,,,,,ESTIMATE,Yes
+UNI-LGT-002,Head lamp bulb 12V 35/35W,Lighting,Universal,Motorcycles,All,Piece,Fast,Yes,450,340,20,,,,,,,ESTIMATE,Yes
+UNI-LUB-001,"Grease, 500 g",Lubricants & fluids,Universal,All,All,Tin,Slow,Yes,900,680,4,,,,,,,ESTIMATE,Yes
+UNI-LUB-002,"Engine oil 4T 20W-40, 1 L (Caltex / Laugfs / Mobil)",Lubricants & fluids,Universal,All 4-stroke,All,Litre,Fast,Yes,2000,1500,60,,,,,,,ESTIMATE,Yes
+UNI-LUB-003,"2T oil, 1 L",Lubricants & fluids,Universal,Bajaj RE 2S / 2-stroke bikes,All,Litre,Fast,Yes,1800,1350,20,,,,,,,ESTIMATE,Yes
+UNI-LUB-004,Chain lube spray,Lubricants & fluids,Universal,Motorcycles,All,Can,Medium,Yes,1500,1120,6,,,,,,,ESTIMATE,Yes
+UNI-LUB-005,"Brake fluid DOT 3, 250 ml",Lubricants & fluids,Universal,Three-wheelers / disc brakes,All,Bottle,Medium,Yes,900,680,10,,,,,,,ESTIMATE,Yes
+UNI-LUB-006,"Gear oil, 1 L",Lubricants & fluids,Universal,Three-wheelers / scooters,All,Litre,Medium,Yes,2000,1500,10,,,,,,,ESTIMATE,Yes
+UNI-STR-001,Flasher relay / fuses (assorted),Starting & switches,Universal,All,All,Piece,Medium,Yes,450,340,10,,,,,,,ESTIMATE,Yes
+UNI-STR-002,Horn 12V,Starting & switches,Universal,All,All,Piece,Medium,Yes,1200,900,4,,,,,,,ESTIMATE,Yes
+UNI-WHL-001,Wheel bearing 6301,Wheels,Universal,Motorcycles,All,Piece,Medium,Yes,450,340,10,,,,,,,ESTIMATE,Yes
+UNI-WHL-002,Wheel bearing 6201,Wheels,Universal,Motorcycles / three-wheelers,All,Piece,Medium,Yes,450,340,10,,,,,,,ESTIMATE,Yes
+UNI-WHL-003,Wheel bearing 6202,Wheels,Universal,Motorcycles / three-wheelers,All,Piece,Medium,Yes,450,340,10,,,,,,,ESTIMATE,Yes

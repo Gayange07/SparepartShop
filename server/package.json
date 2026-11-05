@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -b",
+    "start": "node dist/index.js",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx src/db/migrate.ts",
+    "db:seed": "tsx src/db/seed.ts",
+    "db:seed:inventory": "tsx src/db/seeds/inventory.ts",
+    "db:seed:inventory:reset": "tsx src/db/seeds/inventory.ts --reset --yes"
+  },
+  "dependencies": {
+    "@fastify/cookie": "^11.1.5",
+    "@fastify/session": "^11.1.6",
+    "argon2": "^0.45.1",
+    "better-sqlite3": "^13.0.3",
+    "drizzle-orm": "^0.45.4",
+    "fastify": "^5.6.0",
+    "fastify-plugin": "^6.0.1",
+    "shared": "*"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^22.15.0",
+    "drizzle-kit": "^0.31.11",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

@@ -1,0 +1,23 @@
+node_modules/
+dist/
+*.db
+*.db-journal
+.env
+.env.*
+!.env.example
+
+# local databases and backups: real shop data never goes to GitHub
+*.sqlite
+*.db-wal
+*.db-shm
+backups/
+/data/
+/server/data/
+
+# editor / OS / tooling
+/.claude/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo

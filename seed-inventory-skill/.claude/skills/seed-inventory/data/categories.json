@@ -1,0 +1,102 @@
+[
+ {
+  "code": "ACC",
+  "name": "Accessories"
+ },
+ {
+  "code": "BDY",
+  "name": "Body & plastics"
+ },
+ {
+  "code": "BRK",
+  "name": "Brakes"
+ },
+ {
+  "code": "CVT",
+  "name": "CVT transmission"
+ },
+ {
+  "code": "CBL",
+  "name": "Cables"
+ },
+ {
+  "code": "CLT",
+  "name": "Clutch & gearbox"
+ },
+ {
+  "code": "CTL",
+  "name": "Controls"
+ },
+ {
+  "code": "ENB",
+  "name": "Engine - bottom end"
+ },
+ {
+  "code": "ENT",
+  "name": "Engine - top end"
+ },
+ {
+  "code": "FLT",
+  "name": "Filters"
+ },
+ {
+  "code": "FDR",
+  "name": "Final drive"
+ },
+ {
+  "code": "FUE",
+  "name": "Fuel system"
+ },
+ {
+  "code": "IGN",
+  "name": "Ignition & charging"
+ },
+ {
+  "code": "LGT",
+  "name": "Lighting"
+ },
+ {
+  "code": "LUB",
+  "name": "Lubricants & fluids"
+ },
+ {
+  "code": "STR",
+  "name": "Starting & switches"
+ },
+ {
+  "code": "SUS",
+  "name": "Suspension"
+ },
+ {
+  "code": "TWB",
+  "name": "Three-wheeler body & canopy"
+ },
+ {
+  "code": "TYR",
+  "name": "Tyres & tubes"
+ },
+ {
+  "code": "WHL",
+  "name": "Wheels"
+ },
+ {
+  "code": "EXH",
+  "name": "Exhaust & emissions"
+ },
+ {
+  "code": "COO",
+  "name": "Cooling"
+ },
+ {
+  "code": "FAS",
+  "name": "Fasteners & hardware"
+ },
+ {
+  "code": "STE",
+  "name": "Steering & handlebar"
+ },
+ {
+  "code": "EVP",
+  "name": "Electric-vehicle parts"
+ }
+]

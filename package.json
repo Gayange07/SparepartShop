@@ -1,0 +1,36 @@
+{
+  "name": "spareparts-erp",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "web",
+    "server",
+    "shared",
+    "desktop"
+  ],
+  "scripts": {
+    "dev": "concurrently -n web,server -c cyan,magenta \"npm run dev -w web\" \"npm run dev -w server\"",
+    "dev:desktop": "npm run dev -w desktop",
+    "build": "npm run build -w web && npm run build -w server",
+    "build:desktop": "npm run build -w desktop",
+    "test": "vitest run",
+    "db:generate": "npm run db:generate -w server",
+    "db:migrate": "npm run db:migrate -w server",
+    "db:seed": "npm run db:seed -w server",
+    "db:seed:inventory": "npm run db:seed:inventory -w server",
+    "db:seed:inventory:reset": "npm run db:seed:inventory:reset -w server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  },
+  "allowScripts": {
+    "better-sqlite3@13.0.3": true,
+    "esbuild@0.18.20": true,
+    "esbuild@0.25.12": true,
+    "esbuild@0.28.2": true,
+    "argon2@0.45.1": true,
+    "electron@33.4.11": true
+  }
+}
